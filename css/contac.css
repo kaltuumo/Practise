@@ -1,0 +1,59 @@
+body{
+    margin-top: 0;
+    padding: 0;
+    background-color: rgb(252, 244, 244);
+}
+
+.container h3{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: cursive;
+
+}
+.col1, .col2{
+    float: left;
+    margin-top: 20px;
+}
+
+.col1{
+    margin-left: 400px; 
+    background-color: white;
+    width: 500px;
+    height: 500px;
+}
+
+.what img{
+    float: left;
+}
+.what img{
+    width: 90px;
+}
+.what p{
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+.face img{
+    float: left;
+}
+.face img{
+    width: 90px;
+}
+.face img{
+ 
+    margin-top: 0px;
+    margin-bottom: 900px;
+}
+.face p{
+    margin-top: 20px;
+    font-size: 20px;
+   padding: 0px;
+}
+
+
+
+.col2{
+    margin-left: 400px;
+}
